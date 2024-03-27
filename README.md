@@ -1,4 +1,4 @@
-Here is a list of some certifications I have acquired to build experience in data analysis:
+Here is a list of some certifications I have gain an experience for data analyst.
 
 |S no	| Certificate	| Link	| month/Year |
 |:---:|:------------|:----:|---------:|
